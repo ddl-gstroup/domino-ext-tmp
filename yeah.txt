@@ -4,3 +4,5 @@ oui
 ok
 da
 yep
+riiiight
+yes
